@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nameisashish
 - 👀 I’m interested in coding and electronics
-- 🌱 I’m currently learning electronics and communication
+- 🌱 I’m currently learning electronics and Telecommunication
 - 🤖 I’m looking to collaborate on any coding or electronics related projects
 - 📫 To reach me  https://www.linkedin.com/in/ashish-kishore-6b56a51b3/
 
